@@ -1,0 +1,102 @@
+"CASE"	"SERIAL"	"REF"	"QUESTNNR"	"MODE"	"STARTED"	"S101_01"	"S102"	"S201"	"S202"	"S203"	"S204"	"S205"	"S302_CN"	"S302_01"	"S302_02"	"S302_03"	"S302_04"	"S302_05"	"S302_05a"	"S303_CN"	"S303_01"	"S303_02"	"S303_03"	"S303_04"	"S303_05"	"S303_06"	"S303_06a"	"S304_CN"	"S304_01"	"S304_02"	"S304_03"	"S304_04"	"S304_05"	"S304_06"	"S304_07"	"S304_07a"	"S305_01"	"S305_02"	"S305_03"	"TIME001"	"TIME002"	"TIME003"	"TIME004"	"TIME_SUM"	"MAILSENT"	"LASTDATA"	"FINISHED"	"Q_VIEWER"	"LASTPAGE"	"MAXPAGE"	"MISSING"	"MISSREL"	"DEG_MISS"	"DEG_TIME"	"DEGRADE"
+53			"base"	"interview"	2015-12-09 22:30:22	23	1	2	1	2	2	2	4	T	T	T	T	F		3	F	T	T	F	T	F		2	T	F	F	F	T	F	F		1	1	1	5	20	19	45	89		2015-12-09 22:31:51	T	F	4	4	0	0	0	22	22
+54			"base"	"interview"	2015-12-09 22:40:10	24	1	1	2	3	2	2	1	F	F	F	F	T	"-"	1	F	F	F	F	F	T	"-"	3	T	T	F	T	F	F	F		1	1	1	27	7	16	102	152		2015-12-09 22:42:42	T	F	4	4	0	0	0	13	13
+57			"base"	"interview"	2015-12-09 22:42:49	25	1	1	2	2	2	2	1	F	F	T	F	F		1	F	F	F	F	T	F		1	F	T	F	F	F	F	F		1	1	1	34	9	483	52	119		2015-12-09 22:52:27	T	F	4	4	0	0	0	6	6
+58			"base"	"interview"	2015-12-09 22:45:57	23	2	1	2	2	2	2	1	F	F	F	F	T	"Sind für mich irrelevant"	1	F	F	F	F	F	T	"Brauch ich nicht."	0	F	F	F	F	F	F	F		1	1	1	18	7	18	210	110		2015-12-09 22:50:10	T	F	4	4	0	0	0	11	11
+59			"base"	"interview"	2015-12-09 22:47:18	20	1	1	2	2	2	2	1	T	F	F	F	F		1	F	F	F	F	T	F		3	T	F	F	T	T	F	F		1	1	1	4	14	35	96	149		2015-12-09 22:49:47	T	F	4	4	0	0	0	19	19
+60			"base"	"interview"	2015-12-09 22:47:21	25	2	1	2	2	2	2	1	F	T	F	F	F		2	T	F	T	F	F	F		1	F	F	F	F	T	F	F		1	1	1	7	11	24	43	85		2015-12-09 22:48:46	T	F	4	4	0	0	0	12	12
+61			"base"	"interview"	2015-12-09 22:54:08	23	1	2	3	3	3	3	2	T	F	T	F	F		3	T	F	T	F	T	F		2	T	F	F	T	F	F	F		1	1	1	4	6	21	83	114		2015-12-09 22:56:02	T	F	4	4	0	0	0	31	31
+62			"base"	"interview"	2015-12-09 23:01:59	23	1	1	1	2	2	2	1	F	F	T	F	F		1	F	F	F	F	T	F		0	F	F	F	F	F	F	F		1	1	1	231	70	17	480	105		2015-12-09 23:15:17	T	F	4	4	0	0	0	5	5
+64			"base"	"interview"	2015-12-09 23:17:29	23	1	1	1	2	2	2	1	F	F	T	F	F		1	F	F	F	F	T	F		0	F	F	F	F	F	F	F		1	1	1	28	32	28	69	136		2015-12-09 23:20:06	T	F	4	4	0	0	0	0	0
+65			"base"	"interview"	2015-12-09 23:46:11	22	2	2	2	2	2	2																												16	5	13		34		2015-12-09 23:46:45	F	F	3	3	0	0	0	34	34
+66			"base"	"interview"	2015-12-09 23:57:37	23	2	1	2	2	2	2	1	F	F	F	F	T	"Gar nicht"	1	T	F	F	F	F	F		1	F	F	F	F	F	F	T	"Gar keine"	1	1	1	4	12	14	67	97		2015-12-09 23:59:14	T	F	4	4	0	0	0	28	28
+67			"base"	"interview"	2015-12-10 00:00:53	23	1	1	2	3	2	2																												5	7	73		36		2015-12-10 00:02:18	F	F	3	3	0	0	0	26	26
+68			"base"	"interview"	2015-12-10 00:29:41	33	1	2	1	2	2	2	2	T	F	T	F	F		2	F	T	F	F	T	F		3	T	F	F	F	T	T	F		1	1	1	5	12	19	155	191		2015-12-10 00:32:52	T	F	4	4	0	0	0	16	16
+69			"base"	"interview"	2015-12-10 08:20:29	24	1																																	37	9			46		2015-12-10 08:21:15	F	F	2	2	0	0	0	6	6
+71			"base"	"interview"	2015-12-10 12:48:59	31	1	1	2	2	2	2	0	F	F	F	F	F		2	T	F	F	F	T	F		2	T	F	F	F	F	T	F		1	1	1	113	8	12	38	68		2015-12-10 12:51:50	T	F	4	4	0	0	0	27	27
+72			"base"	"interview"	2015-12-10 12:50:32	21	1	2	1	2	1	2	1	F	T	F	F	F		2	T	F	F	F	T	F		2	F	T	F	F	F	T	F		1	3	1	4	11	17	82	114		2015-12-10 12:52:26	T	F	4	4	0	0	0	24	24
+73			"base"	"interview"	2015-12-10 12:51:43	21	1	1	2	2	2	2	2	T	T	F	F	F		1	T	F	F	F	F	F		1	F	F	F	F	F	T	F		1	1	1	6	10	18	39	73		2015-12-10 12:52:56	T	F	4	4	0	0	0	23	23
+77			"base"	"interview"	2015-12-10 13:24:35	23	1	1	1	1	1	2	3	T	T	F	T	F		1	F	F	F	T	F	F		5	T	F	T	T	T	T	F		2	1	1	12	12	17	65	106		2015-12-10 13:26:21	T	F	4	4	0	0	0	6	6
+78			"base"	"interview"	2015-12-10 13:30:01	22	1	2	2	2	2	2	3	T	T	T	F	F		2	T	F	T	F	F	F		4	T	F	F	T	T	T	F		1	1	1	6	30	28	50	114		2015-12-10 13:31:55	T	F	4	4	0	0	0	13	13
+79			"base"	"interview"	2015-12-10 13:41:09	25	1	2	2	2	2	2	2	T	F	T	F	F		2	T	F	F	T	F	F		6	T	T	T	T	T	T	F		1	1	1	2	7	13	32	54		2015-12-10 13:42:03	T	F	4	4	0	0	0	81	81
+80			"base"	"interview"	2015-12-10 14:01:15	20	1	1	2	1	1	2	4	T	T	T	T	F		4	T	T	T	T	F	F		3	T	F	F	F	T	T	F		1	1	1	107	6	36	46	98		2015-12-10 14:04:31	T	F	4	4	0	0	0	16	16
+81			"base"	"interview"	2015-12-10 16:55:29	24	1	1	1	2	2	2	2	F	T	T	F	F		3	F	F	T	T	T	F		2	T	F	F	F	T	F	F		1	1	1	76	6	34	241	117		2015-12-10 17:01:26	T	F	4	4	0	0	0	10	10
+82			"base"	"interview"	2015-12-10 16:56:38	23	2	1	1	2	3	2	1	F	F	T	F	F		3	F	T	T	F	T	F		2	T	F	F	F	T	F	F		1	1	1	20	10	28	257	125		2015-12-10 17:01:53	T	F	4	4	0	0	0	1	1
+85			"base"	"interview"	2015-12-10 18:51:06	22	1	1	2	2	1	2	2	T	F	T	F	F		2	F	F	F	T	T	F		1	T	F	F	F	F	F	F		1	1	1	28	20	19	67	134		2015-12-10 18:53:20	T	F	4	4	0	0	0	3	3
+86			"base"	"interview"	2015-12-10 18:51:31	27	1	1	1	2	2	2	0	F	F	F	F	F		3	F	T	F	T	T	F		1	F	F	F	T	F	F	F		1	1	3	5	30	25	55	115		2015-12-10 18:53:26	T	F	4	4	0	0	0	15	15
+87			"base"	"interview"	2015-12-10 18:55:14	22	1	1	1	1	1	2	2	F	T	T	F	F		0	F	F	F	F	F	F		0	F	F	F	F	F	F	F		1	1	1	4970	14	36	87	147		2015-12-10 20:20:21	T	F	4	4	0	0	0	0	0
+89			"base"	"interview"	2015-12-10 18:55:44	24	1	1	1	2	2	2	2	T	F	T	F	F		2	F	F	F	T	T	F		0	F	F	F	F	F	F	F		1	1	1	4	25	19	51	99		2015-12-10 18:57:23	T	F	4	4	0	0	0	26	26
+92			"base"	"interview"	2015-12-10 19:25:38	76	1	2	2	2	2	2	0	F	F	F	F	F		0	F	F	F	F	F	F		0	F	F	F	F	F	F	F		1	1	1	615	42	62	39	122		2015-12-10 19:38:16	F	F	3	4	0	0	0	9	9
+95			"base"	"interview"	2015-12-10 20:17:52	76	1	2	2	2	2	1	1	T	F	F	F	F		1	T	F	F	F	F	F		2	F	T	F	T	F	F	F		1	1	1	4	17	31	90	142		2015-12-10 20:20:14	T	F	4	4	0	0	0	19	19
+96			"base"	"interview"	2015-12-10 20:19:46	21	1	2	2	2	2	2	3	T	T	T	F	F		3	T	F	F	T	F	T	"Das ich einen solchen Pass nicht besitze :)"	0	F	F	F	F	F	F	F		1	1	1	22	7	36	78	143		2015-12-10 20:22:09	T	F	4	4	0	0	0	7	7
+100			"base"	"interview"	2015-12-10 20:58:55	60	2	2	2	2	2	1	4	T	T	T	T	F		1	F	F	F	T	F	F		6	T	T	T	T	T	T	F		1	1	1	1331	25	25	64	124		2015-12-10 21:23:00	T	F	4	4	0	0	0	1	1
+101			"base"	"interview"	2015-12-10 22:43:56	24	1	1	2	2	1	1	2	F	T	T	F	F		2	T	F	F	F	T	F		0	F	F	F	F	F	F	F		1	1	1	4	7	18	99	128		2015-12-10 22:46:04	T	F	4	4	0	0	0	30	30
+106			"base"	"interview"	2015-12-11 16:16:49	21	1	2	2	2	2	2	3	T	F	T	T	F		5	T	T	T	T	T	F		0	F	F	F	F	F	F	F		1	1	1	4	11	36	98	149		2015-12-11 16:19:18	T	F	4	4	0	0	0	19	19
+108			"base"	"interview"	2015-12-11 20:00:27	22	2	2	2	2	2	2	1	F	F	T	F	F		1	T	F	F	F	F	F		3	F	T	T	F	T	F	F		1	1	1	49	14	26	200	156		2015-12-11 20:05:16	T	F	4	4	0	0	0	0	0
+109			"base"	"interview"	2015-12-11 20:43:26	21	1	2	1	3	3	2	0	F	F	F	F	F		0	F	F	F	F	F	F		0	F	F	F	F	F	F	F		1	1	1	4	7	93	131	166		2015-12-11 20:47:21	T	F	4	4	0	0	0	26	26
+116			"base"	"interview"	2015-12-11 21:47:17	24	1	2	2	2	2	2	1	F	F	F	F	T	"Nicht im meinem Besitz"	2	F	F	T	F	T	F		1	F	F	F	F	T	F	F		1	1	1	9	7	64	192	107		2015-12-11 21:51:49	T	F	4	4	0	0	0	9	9
+120			"base"	"interview"	2015-12-12 12:49:44	33	2	2	2	3	3	2	1	F	F	F	F	T	"Wie soll ich das beantworten, habe ihn noch nicht."	0	F	F	F	F	F	F		3	T	F	F	T	T	F	F		1	1	1	21	10	41	133	205		2015-12-12 12:53:09	T	F	4	4	0	0	0	1	1
+124			"base"	"interview"	2015-12-12 13:42:47	25	1	1	2	2	2	2	1	F	F	T	F	F		3	F	F	T	T	T	F		3	T	F	F	F	T	T	F		1	1	1	18	8	24	96	146		2015-12-12 13:45:13	T	F	4	4	0	0	0	5	5
+129			"base"	"interview"	2015-12-12 18:40:16	22	2	1	2	2	3	2	0	F	F	F	F	F		3	T	F	F	T	T	F		0	F	F	F	F	F	F	F		1	1	1	84	10	18	58	96		2015-12-12 18:43:06	T	F	4	4	0	0	0	7	7
+131			"base"	"interview"	2015-12-12 18:42:25	24	2	1	2	2	2	2	3	T	T	F	T	F		3	T	F	T	F	T	F		4	T	F	T	F	T	T	F		1	2	1	16	13	20	80	129		2015-12-12 18:44:34	T	F	4	4	0	0	0	3	3
+132			"base"	"interview"	2015-12-12 18:51:33	21	2	1	2	2	2	2	2	T	F	T	F	F		3	T	T	F	F	T	F		3	T	F	F	F	T	T	F		1	2	1	29	37	41	122	203		2015-12-12 18:55:22	T	F	4	4	0	0	0	0	0
+134			"base"	"interview"	2015-12-13 16:09:19	23	1	1	1	2	2	2	0	F	F	F	F	F		1	F	F	F	F	T	F		2	F	F	T	F	T	F	F		1	1	1	3	8	44	96	151		2015-12-13 16:11:50	T	F	4	4	0	0	0	34	34
+135			"base"	"interview"	2015-12-13 16:40:50	25	1	1	1	2	2	2	1	F	F	T	F	F		1	F	F	F	F	T	F		1	F	F	F	F	F	F	T	"gar keine"	1	1	1	37	7	11	34	89		2015-12-13 16:42:19	T	F	4	4	0	0	0	34	34
+136			"base"	"interview"	2015-12-13 17:08:49	21	1	1	2	2	1	2	2	T	F	T	F	F		2	T	F	F	F	T	F		0	F	F	F	F	F	F	F		1	1	1	86	17	23	68	118		2015-12-13 17:12:03	T	F	4	4	0	0	0	1	1
+137			"base"	"interview"	2015-12-13 18:08:07	30	2	1	2	2	2	2	3	T	T	T	F	F		5	T	T	T	T	T	F		3	F	F	T	F	T	T	F		1	1	1	10	11	58	54	133		2015-12-13 18:10:20	T	F	4	4	0	0	0	3	3
+140			"base"	"interview"	2015-12-13 20:26:33	24	1	1	2	2	2	2	0	F	F	F	F	F		5	T	T	T	T	T	F		4	T	T	F	F	T	T	F		1	1	1	7	7	19	39	72		2015-12-13 20:27:45	T	F	4	4	0	0	0	25	25
+142			"base"	"interview"	2015-12-13 22:11:43	28	2	1	2	2	1	2	3	T	F	T	T	F		4	T	F	T	T	T	F		2	T	F	T	F	F	F	F		1	1	2	24	14	41	102	181		2015-12-13 22:14:44	T	F	4	4	0	0	0	0	0
+145			"base"	"interview"	2015-12-14 00:35:18	27	1	1	2	2	2	2	3	T	T	T	F	F		1	F	F	F	F	T	F		2	T	F	F	F	T	F	F		1	1	1	3	15	24	73	115		2015-12-14 00:37:13	T	F	4	4	0	0	0	29	29
+147			"base"	"interview"	2015-12-14 09:01:14	34	2	2	2	2	2	2	1	F	F	F	F	T	"Nichts"	2	T	F	F	F	T	F		1	F	F	F	F	F	F	T	"Nichts"	1	1	1	5	8	31	63	107		2015-12-14 09:03:02	T	F	4	4	0	0	0	18	18
+150			"base"	"interview"	2015-12-14 14:25:20	24	1																																	4	11			15		2015-12-14 14:25:35	F	F	2	2	0	0	0	38	38
+151			"base"	"interview"	2015-12-14 15:50:01	26	2	2	2	3	3	2	1	F	F	T	F	F		2	T	F	F	F	T	F		2	T	F	F	F	F	T	F		1	1	1	161	11	30	67	118		2015-12-14 15:54:30	T	F	4	4	0	0	0	0	0
+152			"base"	"interview"	2015-12-14 21:17:21	21	2	2	2	2	2	2	2	T	F	T	F	F		2	T	F	F	F	T	F		2	F	F	F	F	T	T	F		1	1	1	34	10	40	64	148		2015-12-14 21:19:49	T	F	4	4	0	0	0	2	2
+157			"base"	"interview"	2015-12-14 21:27:26	24	1	1	2	2	2	2	4	T	T	T	T	F		2	T	F	F	F	T	F		3	T	F	F	F	T	T	F		1	1	1	32	33	28	74	145		2015-12-14 21:30:13	T	F	4	4	0	0	0	0	0
+158			"base"	"interview"	2015-12-14 21:32:26	47	2	1	2	2	2	2	1	F	F	T	F	F		2	T	F	F	F	T	F		1	T	F	F	F	F	F	F		1	1	1	32	18	28	72	150		2015-12-14 21:34:56	T	F	4	4	0	0	0	0	0
+159			"base"	"interview"	2015-12-14 21:33:24	20	2	1	2	2	2	2	1	F	F	F	F	T	"Keine"	1	F	F	F	F	T	F		1	F	F	F	F	F	F	T	"Keine"	1	1	1	36	14	22	86	158		2015-12-14 21:36:02	T	F	4	4	0	0	0	1	1
+160			"base"	"interview"	2015-12-14 21:33:48	47	1	1	2	2	2	2	2	T	F	T	F	F		4	T	T	F	T	T	F		2	T	F	F	F	F	T	F		1	1	1	33	25	23	55	136		2015-12-14 21:36:04	T	F	4	4	0	0	0	3	3
+164			"base"	"interview"	2015-12-14 21:37:41	23	2	1	2	2	2	2	1	F	F	T	F	F		1	F	F	T	F	F	F		1	F	F	T	F	F	F	F		1	2	2	8	19	47	52	126		2015-12-14 21:39:47	T	F	4	4	0	0	0	7	7
+165			"base"	"interview"	2015-12-14 21:55:22	22	1	1	2	2	1	2	1	T	F	F	F	F		2	F	F	T	F	T	F		2	T	F	F	F	F	T	F		1	1	1	843	56	29	120	170		2015-12-14 22:12:50	T	F	4	4	0	0	0	0	0
+166			"base"	"interview"	2015-12-14 21:59:21	26	1	1	1	2	2	2	3	T	T	T	F	F		5	T	T	T	T	T	F		3	T	T	F	F	T	F	F		1	1	1	12	7	25	69	113		2015-12-14 22:01:14	T	F	4	4	0	0	0	7	7
+168			"base"	"interview"	2015-12-14 22:10:31	24	1	1	2	2	1	2	1	T	F	F	F	F		1	T	F	F	F	F	F		1	F	F	F	T	F	F	F		1	1	1	3	5	19	36	63		2015-12-14 22:11:34	T	F	4	4	0	0	0	58	58
+170			"base"	"interview"	2015-12-14 22:13:56	21	2	1	2	3	2	2	1	F	F	T	F	F		2	T	F	F	F	T	F		2	F	F	F	F	T	T	F		1	1	1	34	17	23	65	139		2015-12-14 22:16:15	T	F	4	4	0	0	0	1	1
+172			"base"	"interview"	2015-12-14 22:42:23	47	1	1	2	2	2	2	1	F	F	T	F	F		2	T	F	F	F	T	F		1	T	F	F	F	F	F	F		1	1	1	2	7	11	41	61		2015-12-14 22:43:24	T	F	4	4	0	0	0	80	80
+173			"base"	"interview"	2015-12-14 23:03:00	15	1																																	10	10			20		2015-12-14 23:03:21	F	F	2	2	50	50	995	3	998
+176			"base"	"interview"	2015-12-14 23:10:42	16	2	1	3	3	2	3																												3	9	25		37		2015-12-14 23:11:19	F	F	3	3	0	0	0	43	43
+177			"base"	"interview"	2015-12-14 23:12:07	18	1	1	2	3	1	2	0	F	F	F	F	F		1	T	F	F	F	F	F		0	F	F	F	F	F	F	F		1	1	1	10	13	24	37	84		2015-12-14 23:13:31	T	F	4	4	0	0	0	10	10
+178			"base"	"interview"	2015-12-14 23:12:35	16	2	1	3	2	2	3	1	F	F	F	T	F		1	F	T	F	F	F	F		1	F	T	F	F	F	F	F		1	3	1	3	8	15	68	94		2015-12-14 23:14:09	T	F	4	4	0	0	0	41	41
+180			"base"	"interview"	2015-12-15 02:06:18	23	2	1	1	2	1	2	2	T	F	T	F	F		1	F	F	F	F	T	F		3	T	F	F	F	T	T	F		1	1	1	25	12	64	37	98		2015-12-15 02:08:36	T	F	4	4	0	0	0	10	10
+181			"base"	"interview"	2015-12-15 02:09:12	21	1	2	2	2	2	2	3	T	T	T	F	F		1	T	F	F	F	F	F		2	T	F	F	F	T	F	F		1	1	1	17	9	44	81	151		2015-12-15 02:11:43	T	F	4	4	0	0	0	3	3
+182			"base"	"interview"	2015-12-15 02:18:37	24	1	1	1	1	1	2	3	T	T	T	F	F		1	F	F	F	F	F	T	"nix"	3	T	F	F	T	T	F	F		2	2	1	84	13	21	59	103		2015-12-15 02:21:34	T	F	4	4	0	0	0	3	3
+183			"base"	"interview"	2015-12-15 03:33:57	29	2	1	2	2	1	2	1	T	F	F	F	F		4	T	T	T	F	T	F		1	T	F	F	F	F	F	F		1	1	1	26	25	21	59	131		2015-12-15 03:36:09	T	F	4	4	0	0	0	3	3
+185			"base"	"interview"	2015-12-15 06:36:51	25	1	1	1	2	2	2	1	T	F	F	F	F		2	F	F	F	T	T	F		1	T	F	F	F	F	F	F		1	1	1	30	12	23	65	130		2015-12-15 06:39:01	T	F	4	4	0	0	0	1	1
+187			"base"	"interview"	2015-12-15 07:47:04	20	2	1	3	2	1	2	3	T	T	T	F	F		3	T	T	F	F	T	F		3	T	T	F	T	F	F	F		1	1	1	74	44	47	123	191		2015-12-15 07:51:52	T	F	4	4	0	0	0	0	0
+192			"base"	"interview"	2015-12-15 19:36:19	23	1	1	1	2	1	2	1	F	F	T	F	F		4	T	T	F	T	T	F		0	F	F	F	F	F	F	F		1	1	1	7	8	28	61	104		2015-12-15 19:38:03	T	F	4	4	0	0	0	11	11
+193			"base"	"interview"	2015-12-15 22:39:06	16	1																																	20	9			29		2015-12-15 22:39:35	F	F	2	2	0	0	0	6	6
+195			"base"	"interview"	2015-12-16 23:26:50	21	2	2	2	2	2	2	1	F	F	T	F	F		3	T	T	F	F	T	F		0	F	F	F	F	F	F	F		1	1	1	37	10	20	82	149		2015-12-16 23:29:19	T	F	4	4	0	0	0	4	4
+202			"base"	"interview"	2015-12-17 14:50:53	23	2	1	1	2	1	2	2	T	T	F	F	F		1	F	F	F	T	F	F		4	T	T	F	F	T	T	F		1	1	1	10	9	16	37	72		2015-12-17 14:52:05	T	F	4	4	0	0	0	19	19
+204			"base"	"interview"	2015-12-17 14:59:52	24	2	1	2	2	2	2	1	F	F	T	F	F		2	T	F	F	F	T	F		2	T	F	F	T	F	F	F		1	1	1	4	23	20	63	110		2015-12-17 15:01:42	T	F	4	4	0	0	0	22	22
+205			"base"	"interview"	2015-12-17 15:16:48	22	1	1	2	2	2	2	0	F	F	F	F	F		2	T	F	F	F	T	F		1	F	F	F	F	T	F	F		1	1	1	7	11	35	89	142		2015-12-17 15:19:10	T	F	4	4	0	0	0	5	5
+206			"base"	"interview"	2015-12-17 15:19:21	21	1	2	2	3	3	2	1	F	F	T	F	F		1	F	F	F	F	T	F		1	F	F	F	F	F	T	F		1	1	1	12	13	24	47	96		2015-12-17 15:20:57	T	F	4	4	0	0	0	5	5
+207			"base"	"interview"	2015-12-17 16:11:45	24	2	1	2	2	2	2	0	F	F	F	F	F		1	T	F	F	F	F	F		0	F	F	F	F	F	F	F		1	1	1	7	9	20	29	65		2015-12-17 16:12:50	T	F	4	4	0	0	0	27	27
+208			"base"	"interview"	2015-12-17 16:32:56	55	2	1	2	2	2	2	1	F	F	F	F	T		1	T	F	F	F	F	F		1	F	F	F	F	F	F	T		1	1	1	7	24	27	48	106		2015-12-17 16:34:42	T	F	4	4	13	10	205	10	215
+210			"base"	"interview"	2015-12-17 16:40:08	23	2	1	1	2	1	2	1	F	F	F	F	T	"Ich nutze sie nicht"	3	F	T	F	T	T	F		3	F	T	F	F	T	T	F		1	1	1	3	9	17	73	102		2015-12-17 16:41:50	T	F	4	4	0	0	0	37	37
+211			"base"	"interview"	2015-12-17 16:48:27	23	1	1	2	2	2	2	1	F	T	F	F	F		1	F	F	F	F	T	F		2	T	F	F	F	T	F	F		1	1	2	8	8	13	47	76		2015-12-17 16:49:43	T	F	4	4	0	0	0	24	24
+213			"base"	"interview"	2015-12-17 17:02:53	24	1	1	2	2	2	2	2	T	F	F	T	F		2	T	F	F	T	F	F		3	F	F	F	T	T	T	F		1	1	1	19	9	24	71	123		2015-12-17 17:04:56	T	F	4	4	0	0	0	3	3
+214			"base"	"interview"	2015-12-17 21:01:35	52	2	1	2	2	2	2	1	F	F	T	F	F		2	T	F	F	F	T	F		1	F	F	F	F	T	F	F		1	1	1	18	14	25	69	126		2015-12-17 21:03:41	T	F	4	4	0	0	0	0	0
+217			"base"	"interview"	2015-12-18 09:23:21	25	2	1	2	2	2	2	1	T	F	F	F	F		2	T	F	F	T	F	F		2	T	F	F	F	F	T	F		1	1	1	3	12	18	57	90		2015-12-18 09:24:51	T	F	4	4	0	0	0	36	36
+223			"base"	"interview"	2015-12-18 12:07:03	22	1	1	1	2	2	2	2	T	F	T	F	F		4	T	F	T	T	T	F		1	F	F	F	F	T	F	F		1	1	1	10	10	20	111	151		2015-12-18 12:09:34	T	F	4	4	0	0	0	4	4
+224			"base"	"interview"	2015-12-18 12:07:14	23	1	1	1	2	2	2	3	T	T	T	F	F		5	T	T	T	T	T	F		3	T	T	F	F	F	T	F		1	1	3	3	28	33	101	165		2015-12-18 12:10:00	T	F	4	4	0	0	0	29	29
+225			"base"	"interview"	2015-12-18 12:07:20	21	1	2	2	3	3	2	3	T	T	T	F	F		2	T	F	F	F	T	F		3	T	F	T	F	T	F	F		1	1	1	5	8	18	47	78		2015-12-18 12:08:38	T	F	4	4	0	0	0	27	27
+226			"base"	"interview"	2015-12-18 12:07:27	23	1	1	2	2	2	2	4	T	T	T	T	F		5	T	T	T	T	T	F		2	F	F	T	F	F	T	F		1	1	1	11	17	25	94	147		2015-12-18 12:09:54	T	F	4	4	0	0	0	0	0
+228			"base"	"interview"	2015-12-18 12:13:15	26	1	2	2	2	2	2	2	F	T	T	F	F		1	F	F	F	F	T	F		1	T	F	F	F	F	F	F		1	1	1	7	9	70	48	88		2015-12-18 12:15:29	T	F	4	4	0	0	0	13	13
+229			"base"	"interview"	2015-12-18 12:17:36	22	1	1	1	1	2	2	4	T	T	T	T	F		2	F	F	T	T	F	F		2	F	T	F	F	T	F	F		1	1	1	5	10	36	47	98		2015-12-18 12:19:14	T	F	4	4	0	0	0	19	19
+230			"base"	"interview"	2015-12-18 12:17:50	23	1	1	1	2	2	2	0	F	F	F	F	F		3	F	F	F	T	T	T	"Bereits veraltete Techniken "	1	T	F	F	F	F	F	F		1	1	1	9	9	11	55	84		2015-12-18 12:19:14	T	F	4	4	0	0	0	22	22
+232			"base"	"interview"	2015-12-18 12:42:19	23	1	1	2	2	2	2	1	F	F	T	F	F		1	T	F	F	F	F	F		0	F	F	F	F	F	F	F		1	1	1	13	14	36	94	157		2015-12-18 12:44:56	T	F	4	4	0	0	0	0	0
+233			"base"	"interview"	2015-12-18 13:42:46	30	1	1	2	3	2	2	1	F	F	F	F	T		1	F	F	F	F	T	F		1	F	F	F	F	F	F	T		1	1	1	4	9	21	28	62		2015-12-18 13:43:48	T	F	4	4	13	10	205	41	246
+234			"base"	"interview"	2015-12-18 14:21:35	21	1	1	2	2	2	2	1	F	F	T	F	F		1	F	F	F	F	T	F		1	F	F	F	F	F	T	F		1	2	1	15	29	18	52	114		2015-12-18 14:23:29	T	F	4	4	0	0	0	8	8
+236			"base"	"interview"	2015-12-18 19:22:22	60	1	1	1	2	2	2	2	F	T	T	F	F		2	F	F	T	F	T	F		1	T	F	F	F	F	F	F		1	1	1	3	8	24	30	65		2015-12-18 19:23:27	T	F	4	4	0	0	0	49	49
+237			"base"	"interview"	2015-12-18 19:27:14	85	1	1	2	2	2	2	0	F	F	F	F	F		3	T	T	T	F	F	F		0	F	F	F	F	F	F	F		1	1	1	2	12	10	26	50		2015-12-18 19:28:04	T	F	4	4	0	0	0	87	87
+238			"base"	"interview"	2015-12-18 19:28:09	83	2	1	2	2	2	2	0	F	F	F	F	F		2	F	T	T	F	F	F		0	F	F	F	F	F	F	F		1	1	1	1	8	12	16	37		2015-12-18 19:28:46	T	F	4	4	0	0	0	170	170
+239			"base"	"interview"	2015-12-18 20:34:18	60	1	1	3	3	2	2	1	F	F	F	F	T	"Keine Angabe"	2	T	F	F	F	T	F		2	F	F	F	T	T	F	F		1	1	1	3	12	66	253	106		2015-12-18 20:39:52	T	F	4	4	0	0	0	29	29
+240			"base"	"interview"	2015-12-18 20:40:09	23	1	1	2	2	2	2																												2	68	13		26		2015-12-18 20:41:32	F	F	3	3	0	0	0	81	81
